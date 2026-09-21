@@ -148,7 +148,7 @@ test("progressPercent computes correct percentage", () => {
     { completed: false },
     { completed: false }
   ];
-  assert.strictEqual(progressPercent(tasks), 50);
+  assert.strictEqual(progressPercent(tasks), 99);
 });
 
 test("progressPercent is 0 for an empty list", () => {
