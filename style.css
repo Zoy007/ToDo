@@ -203,9 +203,9 @@ h1 {
   opacity: 0.4;
 }
 
-#task-list li.priority-high { border-left-color: #e2455a; }
-#task-list li.priority-medium { border-left-color: #de629c; }
-#task-list li.priority-low { border-left-color: #a7a1c4; }
+#task-list li.priority-high { border-left-color: #c9243a; }
+#task-list li.priority-medium { border-left-color: #79de62; }
+#task-list li.priority-low { border-left-color: #7b68db; }
 
 #task-list li .task-main {
   flex: 1;
